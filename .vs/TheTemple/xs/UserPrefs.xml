@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A95F6C5D-C624-65C9-E75F-F9A393B3480C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/TempleManager.cs">
+    <Files>
+      <File FileName="Assets/Script/OrbManager.cs" Line="39" Column="34" />
+      <File FileName="Assets/Script/GameManager.cs" Line="16" Column="23" />
+      <File FileName="Assets/Script/TempleManager.cs" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
